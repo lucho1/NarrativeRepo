@@ -1,0 +1,15 @@
+ENTREGA 2 de Narrativa en Tiempo Real del Grado en Diseño y Videojuegos (CITM | UPC).
+
+Por Luciano Suaya Leiro.
+
+La entrega es la "DeliveryScene", dentro de la carpeta "Scenes". Consiste en un pequeño nivel
+de prueba en el que el usuario se puede mover y mirar al rededor con el mouse y las teclas
+WASD. Sería como una simulación de First Person Shooter y la idea era jugar un poco con la
+cámara y el movimiento del personaje principal.
+
+El script de movimiento de cámara y de personaje es hecho 100% por mí. Los assets del nivel,
+la pistola y los brazos son sacados de un package, el Low Poly FPS Pack de la Asset Store
+(https://assetstore.unity.com/packages/3d/props/weapons/low-poly-fps-pack-free-sample-144839)
+
+PD: En el proyecto hay otras cosas, como por ejemplo un pack de SciFi o una escena así como
+con una pequeña nave, son diferentes pruebas que he hecho.
